@@ -1,4 +1,4 @@
-sssYii 2 Advanced Project Template
+ssssssYii 2 Advanced Project Template
 ===============================
 
 Yii 2 Advanced Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
